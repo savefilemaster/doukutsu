@@ -1,3 +1,6 @@
+# Download
+Game freely available at [The Cave Story Tribute Site](http://www.cavestory.org/download/cave-story.php).
+
 # Directory
 Put Profile.dat file in same directory as Doukutsu.exe executable.
 
